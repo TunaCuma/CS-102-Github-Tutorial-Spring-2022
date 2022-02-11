@@ -1,2 +1,48 @@
 Tuna Cuma- 22103156 - https://github.com/TunaCuma
 Fallout 4
+commit b028d5b50fa28f4d7dc14ba82a2a7cc4330f138e (HEAD -> main, origin/main)
+Merge: d95c727 c21c1c2
+Author: TunaCuma <62616668+TunaCuma@users.noreply.github.com>
+Date:   Fri Feb 11 22:50:10 2022 +0300
+commit b028d5b50fa28f4d7dc14ba82a2a7cc4330f138e (HEAD -> main, origin/main)
+Merge: d95c727 c21c1c2
+Author: TunaCuma <62616668+TunaCuma@users.noreply.github.com>
+Date:   Fri Feb 11 22:50:10 2022 +0300
+
+    Merge pull request #1 from TunaCuma/new_information
+
+    Tuna Cuma added his favorite Video Game
+
+commit c21c1c2f7a1aaec7a139e871e5511d6890c2023d (origin/new_information, new_information)
+Author: Tuna Cuma <tunacuma2003@gmail.com>
+Date:   Fri Feb 11 22:44:31 2022 +0300
+
+    Tuna Cuma added his favorite Video Game
+:...skipping...
+commit b028d5b50fa28f4d7dc14ba82a2a7cc4330f138e (HEAD -> main, origin/main)
+Merge: d95c727 c21c1c2
+Author: TunaCuma <62616668+TunaCuma@users.noreply.github.com>
+Date:   Fri Feb 11 22:50:10 2022 +0300
+
+    Merge pull request #1 from TunaCuma/new_information
+
+    Tuna Cuma added his favorite Video Game
+
+commit c21c1c2f7a1aaec7a139e871e5511d6890c2023d (origin/new_information, new_information)
+Author: Tuna Cuma <tunacuma2003@gmail.com>
+Date:   Fri Feb 11 22:44:31 2022 +0300
+
+    Tuna Cuma added his favorite Video Game
+
+commit d95c7275a333c7a1fbac2a586c14b51bca8a0112
+Author: Tuna Cuma <tunacuma2003@gmail.com>
+Date:   Fri Feb 11 22:25:53 2022 +0300
+
+    Tuna Cuma updated info.txt
+
+commit f9b92d10b1c248b3643f94db297c4a268f6e8bbb
+Author: Tuna Cuma <tunacuma2003@gmail.com>
+Date:   Fri Feb 11 22:15:43 2022 +0300
+
+    Initial commit
+:
